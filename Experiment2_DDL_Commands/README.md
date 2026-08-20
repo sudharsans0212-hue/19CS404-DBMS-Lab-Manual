@@ -104,16 +104,17 @@ CREATE TABLE Table_Name (
 ```
 
 **Question 1**
---
--- Paste Question 1 here
+
+<img width="851" height="358" alt="image" src="https://github.com/user-attachments/assets/42b63c7e-636a-496e-8670-8cc2a7377a51" />
 
 ```sql
--- Paste your SQL code below for Question 1
+alter table Student_details add MobileNumber NUMBER;
+alter table Student_details add Address VARCHAR(100);
 ```
 
 **Output:**
 
-![Output1](output.png)
+<img width="818" height="300" alt="image" src="https://github.com/user-attachments/assets/072f0b6f-3322-46e0-b536-634e034245bb" />
 
 **Question 2**
 ---
