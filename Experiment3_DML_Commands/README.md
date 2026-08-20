@@ -46,6 +46,7 @@ Used to retrieve records from a table.
 SELECT column1, column2 FROM table_name WHERE condition;
 ```
 **Question 1**
+
 <img width="850" height="254" alt="image" src="https://github.com/user-attachments/assets/e6bac6dd-4e51-4810-a5da-f24218c66b51" />
 
 ```sql
@@ -58,6 +59,7 @@ where GRADE=2;
 <img width="578" height="461" alt="image" src="https://github.com/user-attachments/assets/6c778608-53fc-4fa1-b1e5-544ad6522c29" />
 
 **Question 2**
+
 <img width="725" height="251" alt="image" src="https://github.com/user-attachments/assets/06c53321-90f5-4ea4-8a60-3fb8e29e93f9" />
 
 
@@ -71,6 +73,7 @@ where surgery_id=3 or surgeon_id=4;
 <img width="819" height="451" alt="image" src="https://github.com/user-attachments/assets/a004955f-3935-4cb9-984d-1b62dc4eeccd" />
 
 **Question 3**
+
 <img width="842" height="412" alt="image" src="https://github.com/user-attachments/assets/16ac7bcb-b056-4b19-9473-746ab9218adc" />
 
 
@@ -86,6 +89,7 @@ where quantity<10 and category='Snacks'
 
 
 **Question 4**
+
 <img width="858" height="320" alt="image" src="https://github.com/user-attachments/assets/4f9f2965-65a5-4e3f-b470-8026bff71051" />
 
 ```sql
@@ -98,6 +102,7 @@ where grade is null;
 <img width="821" height="346" alt="image" src="https://github.com/user-attachments/assets/21dc27a7-f68e-47b9-a69b-bdc0a6aa061b" />
 
 **Question 5**
+
 <img width="845" height="229" alt="image" src="https://github.com/user-attachments/assets/da199295-6abb-4e24-898a-5a45e9360bee" />
 
 ```sql
@@ -110,6 +115,7 @@ where grade>100
 <img width="822" height="357" alt="image" src="https://github.com/user-attachments/assets/bef4effd-9de4-4bb0-8c1f-d99b2fd000ff" />
 
 **Question 6**
+
 <img width="852" height="259" alt="image" src="https://github.com/user-attachments/assets/15934c9e-5811-47b4-8407-3994a77e4658" />
 
 ```sql
@@ -122,6 +128,7 @@ where GRADE>=2
 <img width="557" height="442" alt="image" src="https://github.com/user-attachments/assets/d133ab90-5818-4924-816a-0e012a84606f" />
 
 **Question 7**
+
 <img width="686" height="263" alt="image" src="https://github.com/user-attachments/assets/5f09f4b4-d246-4d43-b2b2-924a38eaace9" />
 
 
@@ -140,6 +147,7 @@ from calculations
 
 
 **Question 8**
+
 <img width="756" height="286" alt="image" src="https://github.com/user-attachments/assets/5132a2ec-cade-42f2-96c8-ba68163747ce" />
 
 ```sql
